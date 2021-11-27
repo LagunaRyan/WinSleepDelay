@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinSleepDelay", "WinSleepDelay\WinSleepDelay.csproj", "{9B29D4FA-4BFB-435D-8593-3F2429072460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B29D4FA-4BFB-435D-8593-3F2429072460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B29D4FA-4BFB-435D-8593-3F2429072460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B29D4FA-4BFB-435D-8593-3F2429072460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B29D4FA-4BFB-435D-8593-3F2429072460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F0E72CA-3BED-422A-B052-418C9FD0428F}
+	EndGlobalSection
+EndGlobal
